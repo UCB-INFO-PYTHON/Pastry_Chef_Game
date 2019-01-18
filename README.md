@@ -1,7 +1,9 @@
 # Pastry_Chef_Game
 ***
 Lorrel Plimier
+
 Berkeley MIDS – Python w200 – Project 1 –  Fall, 2018
+
 Lorrel.plimier@ischool.berkeley.edu
 ***
 The general idea for this game is that the player is attempting to advance from Novice to Master Pastry Chef by taking cake orders and successfully completing them. The player moves between rooms and completes tasks in a particular sequence to successfully fulfill a cake or cookie order. Points are awarded for success and subtracted for mistakes.
